@@ -75,4 +75,3 @@ yaml
 
 ## 👨‍💻 Developer
 **Ayush Singh**  
-Created for the *Google Chrome Built-in AI Challenge 2025*
